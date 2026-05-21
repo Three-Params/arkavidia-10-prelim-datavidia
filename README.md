@@ -66,21 +66,14 @@ Satu baris prediksi yang hilang diisi dengan modus dataset ("SEDANG") untuk meme
 ## 📁 Repository Structure
 
 ```
-├── dataset/
-│   ├── ISPU/                        # Data ISPU historis 2010–2025 (per tahun)
-│   ├── NDVI (vegetation index)/     # Indeks vegetasi (NDVI) Jakarta
-│   ├── cuaca-harian/                # Data cuaca harian 5 stasiun DKI
-│   ├── cuaca-hourly-dki/            # Data cuaca per jam 5 stasiun DKI
-│   ├── jumlah-penduduk/             # Data jumlah penduduk DKI 2013–2021
-│   ├── kualitas-air-sungai/         # Data kualitas air sungai
-│   ├── libur-nasional/              # Dataset hari libur nasional & akhir pekan
-│   └── sample_submission.csv
 ├── notebooks/
 │   └── Arkavidia10_Datavidia_Three Params kata nopal.ipynb
 ├── reports/
 │   └── Three Params kata nopal_Laporan.pdf
 └── .gitignore
 ```
+
+> **Catatan:** Folder `dataset/` tidak disertakan di repo ini karena dataset bersifat tidak untuk dipublikasikan.
 
 ## 👥 Team
 
