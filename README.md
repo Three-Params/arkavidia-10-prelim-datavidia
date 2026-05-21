@@ -6,7 +6,7 @@
 |---|---|
 | Public Score | 0.68725 |
 | Private Score | 0.68358 |
-| Ranking | **5th Overall** |
+| Overall Ranking | **5th Place** |
 
 ## 📋 Overview
 
