@@ -12,7 +12,7 @@
 
 Penurunan kualitas udara di wilayah metropolitan seperti DKI Jakarta telah menjadi isu lingkungan kritis yang berdampak langsung pada kesehatan masyarakat dan stabilitas ekonomi. Kompetisi Datavidia 10.0 menantang peserta untuk memetakan pola polusi menggunakan pendekatan berbasis data, memanfaatkan dataset historis ISPU dari tahun 2010 hingga 2025 serta variabel pendukung seperti cuaca, indeks vegetasi (NDVI), dan demografi.
 
-**Problem:** Klasifikasi kategori Indeks Standar Pencemar Udara (ISPU) harian di 5 stasiun DKI Jakarta (DKI1–DKI5) untuk periode September–November 2025. Tantangan utama adalah karakteristik data yang tidak seimbang (*imbalanced dataset*), di mana kategori ekstrem seperti "Berbahaya" jarang muncul namun krusial untuk dideteksi.
+**Task:** Klasifikasi kategori Indeks Standar Pencemar Udara (ISPU) harian di 5 stasiun DKI Jakarta (DKI1–DKI5) untuk periode September–November 2025. Tantangan utama adalah karakteristik data yang tidak seimbang (*imbalanced dataset*), di mana kategori ekstrem seperti "Berbahaya" jarang muncul namun krusial untuk dideteksi.
 
 **Evaluation:** Macro F1-Score — rata-rata F1-Score per kelas tanpa mempedulikan proporsi data (*support*).
 
