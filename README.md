@@ -8,6 +8,10 @@
 | Private Score | 0.68358 |
 | Overall Ranking | **5th Place** |
 
+## 📄 Reports
+
+[![Laporan](https://img.shields.io/badge/Laporan-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](reports/Three%20Params%20kata%20nopal_Laporan.pdf)
+
 ## 📋 Overview
 
 Penurunan kualitas udara di wilayah metropolitan seperti DKI Jakarta telah menjadi isu lingkungan kritis yang berdampak langsung pada kesehatan masyarakat dan stabilitas ekonomi. Kompetisi Datavidia 10.0 menantang peserta untuk memetakan pola polusi menggunakan pendekatan berbasis data, memanfaatkan dataset historis ISPU dari tahun 2010 hingga 2025 serta variabel pendukung seperti cuaca, indeks vegetasi (NDVI), dan demografi.
